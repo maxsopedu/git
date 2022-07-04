@@ -1,0 +1,2 @@
+Git lecture 1.
+Simple git practice.
